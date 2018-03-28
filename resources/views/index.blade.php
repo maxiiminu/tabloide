@@ -19,9 +19,9 @@
 		<p class="text-right w-100">Manga Palmer | Kg | <b>R$ 3,99</b></p>
 	</div>
 	<div class="row justify-content-center">
-		<div class="arrow-left h-100"></div>
-		<div class="box-title w-80"><p class="h2">Risoto de Manga e Brie</p></div>
-		<div class="arrow-right h-100"></div>
+		<div class="box-title w-80 rounded">
+			<p class="h2">Risoto de Manga e Brie</p>
+		</div>
 	</div>
 	<div class="row">
 		<h5 class="border-bottom border-dark w-100 mt-3 pb-2">Ingredientes</h5>
